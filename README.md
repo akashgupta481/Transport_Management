@@ -27,4 +27,4 @@ This is the home page. You can simply create new bill, register vehicle details,
 
 
 If you have any querry related to this project, feel free to ask me or if you want full project report you can contact me.
-Contact Mail: ashwnaidwivedi9039@gmail.com
+Contact Mail: ashwnaidwivedi9039@gmail.com & kingakashgupta111@gmail.com
